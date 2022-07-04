@@ -17,6 +17,8 @@
 
   ## Usage
   Use inquirer from your command line to answer questions about your project.
+  
+  or view link here : https://watch.screencastify.com/v/lBMbu0ZR15IfWgUEkRCD
 
   ## License
   This project is license under MIT
